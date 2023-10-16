@@ -10,7 +10,7 @@ const chains = [
     nativeTokenSymbol: 'BNB',
     tokens: [
       {
-        address: '0xce6c9c70f91c6797873EFC80505f972290A88f5D',
+        address: '0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D',
         name: 'IceCream',
         symbol: 'ICE',
         imageUri:
@@ -323,11 +323,11 @@ const chains = [
         resourceId: '0x00000000000000000000001AF3F329e8BE154074D8769D1FFa4eE058B1DBc301',
       },
       {
-        address: '0xce6c9c70f91c6797873EFC80505f972290A88f5D',
+        address: '0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D',
         name: 'USD Coin',
         symbol: 'USDC',
         imageUri:
-          'https://raw.githubusercontent.com/simone1999/trustwallet-assets/master/blockchains/doge/assets/0xce6c9c70f91c6797873EFC80505f972290A88f5D/logo.png',
+          'https://raw.githubusercontent.com/simone1999/trustwallet-assets/master/blockchains/doge/assets/0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D/logo.png',
         resourceId: '0x00000000000000000000008AC76a51cc950d9822D68b83fE1Ad97B32Cd580d01',
       },
       {
@@ -775,7 +775,7 @@ const chains = [
     networkId: 40,
     name: 'Telos',
     decimals: 18,
-    bridgeAddress: '0xce6c9c70f91c6797873EFC80505f972290A88f5D',
+    bridgeAddress: '0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D',
     rpcUrl: 'https://mainnet.telos.net/evm',
     type: 'Ethereum',
     nativeTokenSymbol: 'TLOS',

@@ -525,11 +525,11 @@
     },
     {
       "name": "USD Coin",
-      "address": "0xce6c9c70f91c6797873EFC80505f972290A88f5D",
+      "address": "0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D",
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/simone1999/trustwallet-assets/master/blockchains/doge/assets/0xce6c9c70f91c6797873EFC80505f972290A88f5D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/simone1999/trustwallet-assets/master/blockchains/doge/assets/0x0eE4024E8d5ae9afFCe26f692028407dD2050B7D/logo.png"
     },
     {
       "name": "BUSD",
