@@ -7,7 +7,7 @@ export const INFO_CLIENT_XDC = 'https://the-graph.icecreamswap.com/subgraphs/nam
 export const BLOCKS_CLIENT_XDC = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/blocks-xdc'
 
 export const INFO_CLIENT_CORE = 'https://thegraph.com/hosted-service/subgraph/lyu-jinhang/pattieswap'
-export const BLOCKS_CLIENT_CORE = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/blocks-core'
+export const BLOCKS_CLIENT_CORE = 'https://api.thegraph.com/subgraphs/name/pancakeswap/blocks'
 
 
 

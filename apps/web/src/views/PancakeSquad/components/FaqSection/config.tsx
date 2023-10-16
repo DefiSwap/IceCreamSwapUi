@@ -162,8 +162,8 @@ const config = ({ t }: FAQsType) => [
     description: [
       t('The router and factory addresses are the same on every supported chain:'),
       <br/>,
-      `${t('Router02')} : 0xBb5e1777A331ED93E07cF043363e48d320eb96c4`,
-      `${t('Factory')} : 0x9E6d21E759A7A288b80eef94E4737D313D31c13f`,
+      `${t('Router02')} : 0xAc208907d258637f0B616A66b88CCcD872da49b3`,
+      `${t('Factory')} : 0x71f6a913b317d2BF0Bf51Fd48d90e4cC6e62C4Dd`,
     ],
   },
 ]
