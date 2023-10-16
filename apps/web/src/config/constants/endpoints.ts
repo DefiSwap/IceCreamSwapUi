@@ -6,7 +6,7 @@ export const BLOCKS_CLIENT_BITGERT = 'https://the-graph.icecreamswap.com/subgrap
 export const INFO_CLIENT_XDC = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/exchange-v2-xdc'
 export const BLOCKS_CLIENT_XDC = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/blocks-xdc'
 
-export const INFO_CLIENT_CORE = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/exchange-v2-core'
+export const INFO_CLIENT_CORE = 'https://thegraph.com/hosted-service/subgraph/lyu-jinhang/pattieswap'
 export const BLOCKS_CLIENT_CORE = 'https://the-graph.icecreamswap.com/subgraphs/name/icecreamswap/blocks-core'
 
 

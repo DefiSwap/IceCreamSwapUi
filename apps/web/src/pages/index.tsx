@@ -32,7 +32,7 @@ const tvl = 6082955532.115718
 export const getStaticProps: GetStaticProps = async () => {
   const totalTxQuery = gql`
     query TotalTransactions($id: ID!, $block: Block_height) {
-      pancakeFactory(id: $id, block: $block) {
+      pattieswapFactory(id: $id, block: $block) {
         totalTransactions
       }
     }
